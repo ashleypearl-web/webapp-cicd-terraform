@@ -15,7 +15,7 @@ resource "aws_instance" "dove-inst" {
 
   tags = {
     Name    = "app"
-    Project = "myappy"
+    Project = "ashleyweb"
   }
 }
 
